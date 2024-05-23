@@ -18,3 +18,9 @@ https://github.com/civanyusuf/civan/assets/95244723/162631eb-a66e-40b0-9d11-7135
 
 https://github.com/civanyusuf/civan/assets/95244723/89d0a21f-076a-4ec7-8466-26cf88cf6526
 
+#TEBESSUM DERNEĞİ
+
+Mobil uygulama geliştirmeye başladığım ilk proje 1 ay 15 gün civarı sürdü react-native öğrenim sürecimi burada başlattım
+
+https://github.com/civanyusuf/civan/assets/95244723/a317a58a-3750-456b-84b2-9014b238cb69
+
