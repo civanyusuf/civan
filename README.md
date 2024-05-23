@@ -35,3 +35,9 @@ https://github.com/civanyusuf/civan/assets/95244723/7c207423-89f8-4b53-9a61-55f8
 
 https://github.com/civanyusuf/civan/assets/95244723/d7734730-a427-4edd-b8fe-57c247cbb29d
 
+#FLEETASSIST
+
+bu uygulama bir patron uygulaması ve bayi satış uygulamasıdır.
+
+https://github.com/civanyusuf/civan/assets/95244723/b362641a-3edf-4a03-81e4-cf51943499c5
+
