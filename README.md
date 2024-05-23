@@ -1,3 +1,16 @@
+
+#ÖNEMLİ
+
+CV'mle ilgilendiğiniz için teşekkür ederim. Deneyimim, yıllar bazında eksik gözükse de, gerçekte React Native üzerinde oldukça başarılı ve kapsamlı bir çalışma geçmişine sahibim. Çalışma sürecimde resmi tatiller, özel günler ve bazen cumartesi veya pazar günleri de dahil olmak üzere esnek bir çalışma programı izledim. Bu süreçte, değerli deneyimler kazandım.
+
+Bir ön mülakat yapabilirsek, kendim hakkında daha detaylı bilgi verebilirim. Sorumluluklarımı yerine getirme konusunda oldukça kararlıyım. Bana verilen iş listesi tamamlanmadan ofisten ayrılmam veya bilgisayar başından kalkmam. Bunun yanı sıra, öğrenmeye her zaman açık olduğumu ve yeni bilgiler edinmekten keyif aldığımı belirtmek isterim. Bu iş, hayatımın önemli bir parçası ve bir ön mülakat yapabilirsek, kesinlikle pişman olmayacaksınız.
+
+Saygılarımla,
+
+Yusuf Civan
+
+
+
 # YCHUB-TOOLS
 
 
