@@ -1,5 +1,5 @@
 
-#ÖNEMLİ
+# ÖNEMLİ
 
 CV'mle ilgilendiğiniz için teşekkür ederim. Deneyimim, yıllar bazında eksik gözükse de, gerçekte React Native üzerinde oldukça başarılı ve kapsamlı bir çalışma geçmişine sahibim. Çalışma sürecimde resmi tatiller, özel günler ve bazen cumartesi veya pazar günleri de dahil olmak üzere esnek bir çalışma programı izledim. Bu süreçte, değerli deneyimler kazandım.
 
