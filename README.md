@@ -24,3 +24,14 @@ Mobil uygulama geliştirmeye başladığım ilk proje 1 ay 15 gün civarı sürd
 
 https://github.com/civanyusuf/civan/assets/95244723/a317a58a-3750-456b-84b2-9014b238cb69
 
+#CASTELLO
+
+bu projenin geliştirilme amacı yurtdışındaki yerel yemek yerlerine paket yazılımı olarak satılmaktır. CRM üzerinden logolar renkler iconlar değiştirilebilicek şekilde geliştirildi.
+
+google, apple, facebook girişleri tamamen çalışır durumda.
+
+https://github.com/civanyusuf/civan/assets/95244723/7c207423-89f8-4b53-9a61-55f865fd049c
+
+
+https://github.com/civanyusuf/civan/assets/95244723/d7734730-a427-4edd-b8fe-57c247cbb29d
+
